@@ -1,0 +1,3 @@
+[submodule "linkedin-skills"]
+	path = linkedin-skills
+	url = https://github.com/sergebulaev/linkedin-skills.git
